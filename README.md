@@ -1,6 +1,6 @@
 # Workattech DSA Editorials and Solutions
 
-This repository contains the editorials of the top interview questions from the workat.tech practice platform
+This repository contains the editorials of the top interview questions from the [workat.tech practice platform](https://workat.tech/problem-solving/practice).
 
 | Problem Name          | Practice Link | Editorial Link |
 | --------------------- | ------------- | -------------- |
